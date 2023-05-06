@@ -1,5 +1,3 @@
-import { answers } from "./answers.js";
-
 export class Quiz {
 
     constructor(questions) {
