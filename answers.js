@@ -6,9 +6,9 @@ export const answers = [
         answer: 'Mexico'
     },
     {
-        bandera: 'Rusia',
+        bandera: 'Chile',
         choices: ['Canada', 'Argentina', 'Chile', 'Rusia'],
-        answer: 'Rusia'
+        answer: 'Chile'
     },
     {
         bandera: 'Japon',
